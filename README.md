@@ -1,4 +1,4 @@
-# Candy Machine UI Setup Guide
+# Candy Machine UI Setup 
 
 ## Overview
 This README provides a step-by-step guide to set up the user interface (UI) for your Candy Machine, enabling users to mint NFTs with the SPL token you've generated. The UI utilizes the SPL token as the payment method, and users can mint NFTs by connecting their Phantom wallet.
