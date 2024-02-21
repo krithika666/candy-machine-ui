@@ -1,1 +1,1 @@
-# Metaplex Candy Machine Reference UI
+# Candy Machine Reference UI
